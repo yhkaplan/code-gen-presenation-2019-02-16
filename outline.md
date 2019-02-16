@@ -17,6 +17,10 @@
 
 ---
 
+# [fit] Tools of the trade
+
+---
+
 # Test specific
 - [Cuckoo](https://github.com/Brightify/Cuckoo)
 - [SwiftyMock](https://github.com/MakeAWishFoundation/SwiftyMocky)
@@ -38,22 +42,10 @@
 
 ---
 
-# [fit] Tools of the trade
-
----
-
 # General code generation
 - [Sourcery](https://github.com/krzysztofzablocki/Sourcery)
 - [Gyb](https://github.com/jph00/gyb)
 - [Gyb (Swift Repo)](https://github.com/apple/swift/blob/664e5659c50fb35c6b8e08d05ca6a4e81bdae7f3/utils/gyb.py)
-
----
-
-# [fit] About Gyb
-
----
-
-# [fit] About Sourcery
 
 ---
 
@@ -69,8 +61,15 @@
 
 ---
 
-# Demo of SwiftGen
-- Why I prefer SwiftGen over R.Swift
+# [fit] About Gyb
+
+---
+
+# [fit] About Sourcery
+
+---
+
+# [fit] About Stencil
 
 ---
 
