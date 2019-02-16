@@ -2,6 +2,10 @@
 
 ---
 
+# [fit] Self intro
+
+---
+
 # [fit] What you can do
 
 ---
@@ -42,6 +46,14 @@
 - [Sourcery](https://github.com/krzysztofzablocki/Sourcery)
 - [Gyb](https://github.com/jph00/gyb)
 - [Gyb (Swift Repo)](https://github.com/apple/swift/blob/664e5659c50fb35c6b8e08d05ca6a4e81bdae7f3/utils/gyb.py)
+
+---
+
+# [fit] About Gyb
+
+---
+
+# [fit] About Sourcery
 
 ---
 
